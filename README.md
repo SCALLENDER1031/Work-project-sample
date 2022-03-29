@@ -1,2 +1,2 @@
 # Work-project-sample
-QA approved data
+QA weights data
